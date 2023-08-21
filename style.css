@@ -3,3 +3,15 @@ body {
     font-family: 'Karla', sans-serif;
     font-size: 16px;
 }
+
+.join-component-title {
+    color: hsl(179, 62%, 43%);
+}
+
+.join-component-subtitle {
+    color: hsl(71, 73%, 54%);
+}
+
+.join-component-text {
+    color: hsl(218, 22%, 67%);
+}
